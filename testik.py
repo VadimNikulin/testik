@@ -1,4 +1,5 @@
 a = "Hello"
-b = " World"
+b = " World "
 c = " !"
-print(a + b)
+d = "СПбГУПТД"
+print(a + b + d + c)
